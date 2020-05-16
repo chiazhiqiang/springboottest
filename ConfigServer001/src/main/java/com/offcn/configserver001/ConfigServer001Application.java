@@ -17,6 +17,7 @@ public class ConfigServer001Application {
     public static void main(String[] args) {
         SpringApplication.run(ConfigServer001Application.class, args);
         System.out.println("1.0 55555");
+        System.out.println("1.0 66666");
     }
 
 }
